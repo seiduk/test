@@ -1,1 +1,3 @@
-Sunday
+<<<<<<< HEAD
+Friday Saturday Sunday
+Groundhog day
